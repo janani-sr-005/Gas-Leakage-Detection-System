@@ -89,5 +89,25 @@ Project demonstration video:
 
 ![demo.mp4](demo.mp4)
 
+## Results
+
+The developed IoT-based Gas Leakage Detection and Alert System successfully detects abnormal gas concentration levels and provides both local and remote alerts. The system displays gas values on an LCD screen, activates LEDs and buzzer during gas leakage, and sends real-time notifications through the Blynk Cloud platform.
+
+---
+
+## Conclusion
+
+The Gas Leakage Detection and Alert System effectively monitors gas concentration levels and provides immediate alerts when hazardous conditions occur. By integrating ESP32, MQ gas sensor, LCD display, and Blynk Cloud, the system enhances safety through real-time monitoring and remote notification capabilities.
+
+---
+
+## Author
+
+**Janani S R**
+
+B.Tech Electronics and Communication Engineering (ECE)
+
+Vellore Institute of Technology ,Chennai
+
 
 
