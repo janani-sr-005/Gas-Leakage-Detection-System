@@ -61,4 +61,27 @@ The objective of this project is to develop an IoT-based Gas Leakage Detection a
 - Cloud notification through Blynk
 - Email alert when gas leakage is detected
 
+## Flowchart
+
+![Flowchart](flowchart.png)
+
+
+
+## Simulated Circuit (Wokwi)
+
+![Circuit](circuit.png)
+
+
+
+## Blynk Dashboard
+
+### Dashboard View 1
+
+![Dashboard 1](blynk_dashboard.png)
+
+### Dashboard View 2
+
+![Dashboard 2](blynk_dashboard2.png)
+
+
 
