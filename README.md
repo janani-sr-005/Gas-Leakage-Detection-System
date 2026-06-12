@@ -83,11 +83,15 @@ The objective of this project is to develop an IoT-based Gas Leakage Detection a
 
 ![Dashboard 2](blynk_dashboard2.png)
 
+## Email Notification
+
+![Email Notification](email_notification.png)
+
 ## Demo Video
 
-Project demonstration video:
+The project demonstration video is available in this repository.
 
-![demo.mp4](demo.mp4)
+[demo.mp4](demo.mp4)
 
 ## Results
 
