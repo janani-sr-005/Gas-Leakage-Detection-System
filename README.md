@@ -67,4 +67,4 @@ The objective of this project is to develop an IoT-based Gas Leakage Detection a
 
 ## Blynk Dashboard
 
-![blynk dashboard](blynk_dashboard.png)
+![blynk_dashboard](blynk_dashboard.png)
