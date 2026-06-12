@@ -87,7 +87,7 @@ The objective of this project is to develop an IoT-based Gas Leakage Detection a
 
 Project demonstration video:
 
-- demo.mp4
+![demo.mp4](demo.mp4)
 
 
 
