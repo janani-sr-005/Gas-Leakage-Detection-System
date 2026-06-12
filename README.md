@@ -32,14 +32,24 @@ This system can be further enhanced in the future by integrating SMS alerts, aut
 
 The objective of this project is to develop an IoT-based Gas Leakage Detection and Alert System using an ESP32 microcontroller and an MQ gas sensor. The system continuously monitors gas concentration levels in the environment and detects any abnormal increase beyond a predefined threshold. When a gas leak is detected, the system activates local warning devices such as a buzzer and LED indicators while simultaneously sending real-time alerts through the Blynk Cloud platform. This helps ensure quick response and improves overall safety.
 
-## Components Used
+## Required Components
 
-- ESP32
+### Hardware
+- ESP32 Development Board
 - MQ Gas Sensor
-- LCD 16x2 (I2C)
+- 16x2 LCD with I2C Module
 - Red LED
 - Green LED
 - Buzzer
+- Connecting Wires
+
+### Software
+- Arduino IDE
+- Wokwi Simulator
+- Blynk IoT Platform
+- GitHub
+
+### Cloud Environment
 - Blynk Cloud
 
 ## Features
